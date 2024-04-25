@@ -17,13 +17,32 @@ Os componentes de um cluster GPU podem ser divididos em categorias de hardware e
 
 ### Hardware
 
-GPUs (unidades de processamento gráfico): os componentes principais de um cluster de GPU. GPUs são hardware especializado projetado para processamento paralelo de cálculos complexos. GPUs são comumente usadas em tarefas como aprendizado de máquina, simulações científicas e renderização.
-CPU (Unidade Central de Processamento): CPUs trabalham em conjunto com GPUs. Eles lidam com tarefas que não são otimizadas para processamento paralelo.
-Memória (RAM): RAMs são módulos de memória de alta velocidade que armazenam dados temporariamente para acesso rápido pela CPU e GPUs.
-Dispositivos de armazenamento (HDDs/SSDs): Para armazenar dados e software. SSDs são preferidos para velocidades mais rápidas de acesso a dados.
-Hardware de rede: inclui NICs e switches. Eles são essenciais para a comunicação entre os diferentes nós do cluster e para conectar o cluster a redes externas.
-Unidades de fonte de alimentação (PSUs): As PSUs fornecem a energia elétrica necessária para todos os componentes, e sua confiabilidade e eficiência são cruciais para a operação estável do cluster.
-Sistemas de refrigeração: São essenciais para manter a integridade operacional do cluster. GPUs e CPUs geram calor significativo e é necessário um resfriamento eficaz para evitar superaquecimento e garantir confiabilidade a longo prazo.
+1. GPUs (unidades de processamento gráfico):
+- os componentes principais de um cluster de GPU.
+  - GPUs são hardware especializado projetado para processamento paralelo de cálculos complexos.
+  - GPUs são comumente usadas em tarefas como aprendizado de máquina, simulações científicas e renderização.
+
+2. CPU (Unidade Central de Processamento): 
+- CPUs trabalham em conjunto com GPUs. 
+  - Eles lidam com tarefas que não são otimizadas para processamento paralelo.
+
+3. Memória (RAM):
+- RAMs são módulos de memória de alta velocidade que armazenam dados temporariamente para acesso rápido pela CPU e GPUs.
+- 
+4. Dispositivos de armazenamento (HDDs/SSDs):
+Para armazenar dados e software.
+SSDs são preferidos para velocidades mais rápidas de acesso a dados.
+
+5. Hardware de rede:
+inclui NICs e switches.
+Eles são essenciais para a comunicação entre os diferentes nós do cluster e para conectar o cluster a redes externas.
+
+6. Unidades de fonte de alimentação (PSUs):
+As PSUs fornecem a energia elétrica necessária para todos os componentes, e sua confiabilidade e eficiência são cruciais para a operação estável do cluster.
+
+7. Sistemas de refrigeração:
+São essenciais para manter a integridade operacional do cluster.
+GPUs e CPUs geram calor significativo e é necessário um resfriamento eficaz para evitar superaquecimento e garantir confiabilidade a longo prazo.
 
 #### Cluster Heterogêneo
 
