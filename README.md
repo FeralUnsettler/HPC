@@ -1,6 +1,7 @@
 ### [Intro1](https://www.zendesk.com.br/blog/cluster-o-que-e/)
 --
 ### [intro2](https://www.hpc.iastate.edu/guides/introduction-to-hpc-clusters/what-is-an-hpc-cluster)
+### [intro2.2](https://www.purestorage.com/knowledge/what-is-an-hpc-cluster.html#:~:text=High%2Dperformance%20computing%20(HPC),of%20large%20amounts%20of%20data.)
 --
 ### [GPU](https://www.thinkmate.com/systems/supermicro/superserver/gpu?utm_source=google&utm_medium=cpc&utm_campaign=THIEU:AICamapaign:France&utm_term=gpu%20compute%20server&utm_agid=153920912575&creative=674123577979&device=c&placement=&gad_source=1&gclid=CjwKCAjwrIixBhBbEiwACEqDJTxWld7NV0XaHXLqjuEeo3iZTZgt7A-XATVV3BeiDLqGPvFQ40O-uBoCgKoQAvD_BwE)
 --
