@@ -91,3 +91,5 @@ Com o Kubernetes, você não apenas gerencia contêineres, mas sim cultiva um ec
 ![Conclusão](prompt: Um jardim exuberante e colorido, com florescimento abundante, simbolizando o sucesso e a prosperidade alcançados com o Kubernetes.)
 
 ---
+
+## [Kubernetes Playground] (https://labs.play-with-k8s.com/)
