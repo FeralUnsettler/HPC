@@ -1,24 +1,3 @@
-### [Intro1](https://www.zendesk.com.br/blog/cluster-o-que-e/)
---
-### [intro2](https://www.hpc.iastate.edu/guides/introduction-to-hpc-clusters/what-is-an-hpc-cluster)
-### [intro2.2](https://www.purestorage.com/knowledge/what-is-an-hpc-cluster.html#:~:text=High%2Dperformance%20computing%20(HPC),of%20large%20amounts%20of%20data.)
---
-### [GPU](https://www.thinkmate.com/systems/supermicro/superserver/gpu?utm_source=google&utm_medium=cpc&utm_campaign=THIEU:AICamapaign:France&utm_term=gpu%20compute%20server&utm_agid=153920912575&creative=674123577979&device=c&placement=&gad_source=1&gclid=CjwKCAjwrIixBhBbEiwACEqDJTxWld7NV0XaHXLqjuEeo3iZTZgt7A-XATVV3BeiDLqGPvFQ40O-uBoCgKoQAvD_BwE)
-
-### [GPU Clusters-v2](https://research.aimultiple.com/gpu-cluster/)
---
-### [K8](https://kubernetes.io/docs/concepts/architecture/)
-### [K8-v2](https://www.vmware.com/topics/glossary/content/kubernetes-cluster.html#:~:text=What%20is%20a%20Kubernetes%20cluster,dependences%20and%20some%20necessary%20services.)
-
---
-## Framework
-
-**Introdução:**
-- Breve explicação sobre a crescente demanda por poder computacional.
-- Apresentação da Computação de Alto Desempenho (HPC) e sua importância na era digital.
-
----
-
 ## Introdução
 
 Na atual era digital, a demanda por poder computacional está em constante ascensão. A explosão de dados em todas as áreas, desde análises complexas até simulações intensivas, está impulsionando a necessidade de infraestruturas computacionais mais robustas e eficientes. Nesse contexto, a Computação de Alto Desempenho (HPC) emerge como uma resposta crucial para atender a essas demandas crescentes.
@@ -26,13 +5,6 @@ Na atual era digital, a demanda por poder computacional está em constante ascen
 A HPC se destaca como uma disciplina fundamental no campo da computação, dedicada a fornecer recursos computacionais de ponta para resolver problemas complexos em diversas áreas, incluindo ciência, engenharia, medicina, finanças e muito mais. Sua importância na era digital é inegável, pois possibilita a execução de tarefas computacionais que seriam impraticáveis ou impossíveis de serem realizadas em um único sistema ou em um tempo viável.
 
 Nesta introdução, exploraremos a crescente demanda por poder computacional e apresentaremos a Computação de Alto Desempenho (HPC) como uma ferramenta essencial para enfrentar os desafios computacionais do mundo contemporâneo.
-
----
-
-**O que é um cluster HPC:**
-- Definição de cluster HPC como uma coleção de computadores interconectados.
-- Explicação do conceito de distribuição de carga de trabalho e paralelismo.
-- Identificação dos principais componentes de um cluster HPC: nós de computação, nós de armazenamento e sistema de gerenciamento de cluster.
 
 ---
 
@@ -73,14 +45,6 @@ Um cluster HPC é composto por diversos componentes essenciais que trabalham em 
    ![Sistema de Gerenciamento de Cluster](https://images.unsplash.com/photo-1603466527175-2928eb57596b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
    *Imagem 5: Representação do sistema de gerenciamento de cluster em ação.*
 
-
----
-
-**Arquitetura de um cluster HPC:**
-- Descrição detalhada da arquitetura, destacando a importância da interconexão de alta velocidade.
-- Explanação sobre a função dos nós de computação e armazenamento.
-- Papel do sistema de gerenciamento de cluster na coordenação das operações.
-
 ---
 ## Arquitetura de um cluster HPC:
 
@@ -114,13 +78,6 @@ O sistema de gerenciamento de cluster é o cérebro por trás das operações do
 ![Sistema de Gerenciamento de Cluster](link_para_a_imagem_4.jpg)
 *Imagem 4: Representação do sistema de gerenciamento de cluster em ação.*
 
----
-
-
-**Escalabilidade:**
-- Explicação sobre a capacidade de escalabilidade dos clusters HPC.
-- Diferenciação entre escalabilidade vertical e horizontal.
-- Importância da flexibilidade para lidar com demandas variáveis de poder computacional.
 
 ---
 
@@ -148,12 +105,6 @@ A flexibilidade proporcionada pela escalabilidade é crucial para lidar com as d
 ![Flexibilidade da Escalabilidade](link_para_a_imagem_2.jpg)
 *Imagem 2: Representação da flexibilidade proporcionada pela escalabilidade dos clusters HPC.*
 
----
-
-
-**Aplicações dos clusters HPC:**
-- Exemplificação das diversas áreas em que os clusters HPC são utilizados, como academia e indústria.
-- Destaque para aplicações específicas, como simulações científicas e análise de dados.
 
 ---
 
@@ -179,13 +130,6 @@ Os clusters HPC são utilizados em uma variedade de áreas, incluindo:
   
   ![Análise de Dados](link_para_a_imagem_2.jpg)
   *Imagem 2: Exemplo de análise de dados realizada em um cluster HPC.*
-
-
----
-
-**Desafios na construção e manutenção de clusters HPC:**
-- Identificação dos principais desafios, como investimento em hardware e expertise técnica.
-- Exploração das áreas de preocupação, como segurança do sistema e gerenciamento eficiente de recursos.
 
 ---
 
@@ -223,12 +167,6 @@ O gerenciamento eficiente de recursos é essencial para garantir o desempenho ot
 
 ---
 
-**Importância futura dos clusters HPC:**
-- Análise sobre a crescente importância dos clusters HPC na era digital em constante expansão.
-- Reflexão sobre seu papel no avanço da pesquisa científica e da inovação tecnológica.
-
----
-
 ## Importância Futura dos Clusters HPC:
 
 Os clusters de Computação de Alto Desempenho (HPC) têm uma importância cada vez maior na era digital em constante expansão. Vamos analisar sua crescente relevância e refletir sobre seu papel no avanço da pesquisa científica e da inovação tecnológica.
@@ -254,12 +192,6 @@ Além de impulsionar a pesquisa científica, os clusters HPC também são fundam
 ![Inovação Tecnológica](link_para_a_imagem_3.jpg)
 *Imagem 3: Ilustração da contribuição dos clusters HPC para a inovação tecnológica.*
 
-
----
-
-**Conclusão:**
-- Recapitulação dos principais pontos discutidos.
-- Ênfase na centralidade dos clusters HPC para atender às demandas por poder computacional no futuro.
 
 ---
 
