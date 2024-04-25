@@ -93,3 +93,6 @@ Com o Kubernetes, você não apenas gerencia contêineres, mas sim cultiva um ec
 ---
 
 ## [Kubernetes Playground] (https://labs.play-with-k8s.com/)
+
+![image](https://github.com/FeralUnsettler/HPC/assets/143057938/b49f367d-ed48-4ab8-b161-f962dc0f8a17)
+
