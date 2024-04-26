@@ -1,0 +1,40 @@
+# Explorando as Fronteiras da Computação de Alto Desempenho: Clusters HPC e Supercomputadores
+
+## Slide 1: Introdução
+- Bem-vindos à nossa apresentação sobre os avanços empolgantes na computação de alto desempenho!
+- Hoje, vamos mergulhar fundo nos clusters HPC e supercomputadores, explorando suas características, aplicações e diferenças.
+
+## Slide 2: O que são Clusters HPC?
+- Os clusters HPC são como "super equipes" de computadores interconectados, trabalhando juntos para resolver problemas complexos.
+- Eles são a espinha dorsal da computação científica moderna, capacitando desde simulações climáticas até descobertas médicas revolucionárias.
+
+## Slide 3: Como Funcionam os Clusters HPC?
+- Distribuindo tarefas complexas entre nós interligados, os clusters HPC realizam cálculos paralelos para uma eficiência máxima.
+- Com um agendador de tarefas inteligente, garantem que cada nó opere na capacidade máxima, evitando gargalos de processamento.
+
+## Slide 4: Aplicações dos Clusters HPC
+- Da pesquisa científica à análise financeira, os clusters HPC são a espinha dorsal de diversas áreas:
+  - Pesquisa científica
+  - Engenharia
+  - Análise financeira
+  - Pesquisa médica
+  - Aprendizado de máquina
+
+## Slide 5: HPC vs. Supercomputadores
+- Embora compartilhem semelhanças, os clusters HPC e os supercomputadores têm diferenças distintas em termos de design, escala e aplicação.
+- Os supercomputadores representam a vanguarda da computação, resolvendo problemas complexos em velocidades incríveis.
+
+## Slide 6: Explorando os Supercomputadores
+- Os supercomputadores vêm em diferentes formas, cada um otimizado para resolver problemas específicos:
+  - Vetoriais
+  - Paralelos
+  - Distribuídos
+  - Grade
+
+## Slide 7: Desafios e Oportunidades
+- Enquanto os supercomputadores enfrentam os desafios mais complexos, os clusters HPC estão se tornando uma ferramenta indispensável para pesquisa, engenharia e análise de dados.
+- Seja explorando o universo ou decifrando o código genético, a computação de alto desempenho está na vanguarda da inovação.
+
+## Slide 8: Conclusão
+- Em resumo, os clusters HPC e os supercomputadores desempenham papéis cruciais no avanço da ciência e da tecnologia.
+- Juntos, eles nos capacitam a explorar novas fronteiras, impulsionando a descoberta e a inovação em todo o mundo.
