@@ -4,6 +4,7 @@
 - Bem-vindos à nossa apresentação sobre os avanços empolgantes na computação de alto desempenho!
 - Hoje, vamos mergulhar fundo nos clusters HPC e supercomputadores, explorando suas características, aplicações e diferenças.
 
+![image](https://github.com/FeralUnsettler/HPC/assets/143057938/644bcb8c-dac1-4809-b875-bb7483fe0638)
 - **Prompt para Geração de Imagem com Stable Diffusion:**
   - Crie uma imagem representando um céu estrelado, com constelações brilhantes que formam as palavras "Alto Desempenho" em letras luminosas. Adicione uma aura de energia pulsante ao redor das palavras para destacar a empolgação e a dinâmica da computação moderna.
 
@@ -11,7 +12,8 @@
 ## Slide 2: O que são Clusters HPC?
 - Os clusters HPC são como "super equipes" de computadores interconectados, trabalhando juntos para resolver problemas complexos.
 - Eles são a espinha dorsal da computação científica moderna, capacitando desde simulações climáticas até descobertas médicas revolucionárias.
-
+- 
+![image](https://github.com/FeralUnsettler/HPC/assets/143057938/be61aec6-736f-45ce-9cb2-0749fab79b42)
 - **Prompt para Geração de Imagem com Stable Diffusion:**
   - Visualize uma rede intrincada de computadores interconectados, semelhante a uma teia de aranha digital. Cada nó do cluster é representado por uma luz brilhante, formando uma malha poderosa e coesa. Adicione um efeito de movimento sutil para transmitir a ideia de colaboração e trabalho em equipe.
 
@@ -19,6 +21,7 @@
 - Distribuindo tarefas complexas entre nós interligados, os clusters HPC realizam cálculos paralelos para uma eficiência máxima.
 - Com um agendador de tarefas inteligente, garantem que cada nó opere na capacidade máxima, evitando gargalos de processamento.
 
+![image](https://github.com/FeralUnsettler/HPC/assets/143057938/f3a52385-bf48-459f-a91a-7165b3c37a23)
 - **Prompt para Geração de Imagem com Stable Diffusion:**
   - Crie uma representação visual de um grande quebra-cabeça sendo montado por múltiplas mãos. Cada peça do quebra-cabeça é uma tarefa computacional, e várias mãos trabalham em conjunto para encaixá-las perfeitamente. Adicione um brilho suave em torno das mãos para simbolizar a eficiência e a sincronia do processo.
 
@@ -30,6 +33,7 @@
   - Pesquisa médica
   - Aprendizado de máquina
 
+![image](https://github.com/FeralUnsettler/HPC/assets/143057938/904fb490-76dd-4a9b-85ef-412a4c1be42c)
 - **Prompt para Geração de Imagem com Stable Diffusion:**
   - Imagine um vasto campo de possibilidades se estendendo até o horizonte, com diferentes cenários emergindo em cada direção. Em um canto do campo, cientistas analisam o clima, enquanto engenheiros estudam a aerodinâmica de aeronaves. No outro canto, traders financeiros examinam gráficos de mercado, e pesquisadores médicos investigam o genoma humano. Destaque cada cenário com cores vibrantes e detalhes precisos para capturar a diversidade de aplicações dos clusters HPC.
 
@@ -37,6 +41,7 @@
 - Embora compartilhem semelhanças, os clusters HPC e os supercomputadores têm diferenças distintas em termos de design, escala e aplicação.
 - Os supercomputadores representam a vanguarda da computação, resolvendo problemas complexos em velocidades incríveis.
 
+![image](https://github.com/FeralUnsettler/HPC/assets/143057938/94d42938-5da5-4051-a2d5-858f5e28e0c7)
 - **Prompt para Geração de Imagem com Stable Diffusion:**
   - Crie uma cena épica de uma corrida entre um carro esportivo de alta tecnologia (representando um supercomputador) e um enxame de drones ágeis (representando clusters HPC). O carro e os drones correm lado a lado em uma pista futurística, cada um demonstrando sua própria velocidade e habilidade. Use efeitos de movimento dinâmico para transmitir a emoção da competição.
 
