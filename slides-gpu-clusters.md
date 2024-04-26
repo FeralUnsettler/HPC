@@ -2,6 +2,8 @@
 ---
 ## Slide 1: Introdução
 - **Título:** Bem-vindos à Era do Processamento Paralelo
+
+![image](https://github.com/FeralUnsettler/HPC/assets/143057938/07a1b696-391e-49dd-89bf-d19f9110c43b)
 - **Prompt para Geração de Imagem com Stable Diffusion:** "Crie uma imagem futurística mostrando uma paisagem tecnológica com vários clusters de GPU interconectados."
 ---
 ## Slide 2: Cluster de GPU - Uma Visão Geral
